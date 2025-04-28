@@ -11,7 +11,7 @@
 
 <h1>About</h1>
 
-I began my programming journey with a comprehensive roadmap on ProgrammingAdvices.com, where I completed 16 courses. These courses established a solid foundation in essential topics such as algorithms, problem-solving, object-oriented programming (OOP), and core computer science concepts like data structures.
+I began my programming journey with a comprehensive roadmap on ProgrammingAdvices.com, where I completed 20 courses. These courses established a solid foundation in essential topics such as algorithms, problem-solving, object-oriented programming (OOP), and core computer science concepts like data structures.
 
 I started with C++, focusing on algorithms and OOP, and then specialized in C#. Additionally, I am currently learning SQL for database management and gaining experience with WinForms, which helped me understand key concepts in creating user interfaces. Throughout my studies, I have worked on various projects, applying my knowledge in practical settings.
 
