@@ -11,11 +11,29 @@
 
 <h1>About</h1>
 
-I began my programming journey with a comprehensive roadmap on ProgrammingAdvices.com, where I completed 20 courses. These courses established a solid foundation in essential topics such as algorithms, problem-solving, object-oriented programming (OOP), and core computer science concepts like data structures.
+Experienced in building **Windows desktop applications** using:  
+- **C#** & **.NET Framework**  
+- **ADO.NET** for database connectivity  
+- **SQL Server** (queries, stored procedures, optimization)  
+- **3-Tier Architecture** (clean separation of UI, logic, and data layers)  
 
-I started with C++, focusing on algorithms and OOP, and then specialized in C#. Additionally, I am currently learning SQL for database management and gaining experience with WinForms, which helped me understand key concepts in creating user interfaces. Throughout my studies, I have worked on various projects, applying my knowledge in practical settings.
+### **Core Skills**  
+✔ **Strong OOP Principles** – Writing modular, maintainable code  
+✔ **Database Design** – SQL, ERD (Entity-Relationship Diagrams)  
+✔ **Problem-Solving** – Efficient algorithms & data structures  
+✔ **Algorithms & Data Structures**
 
-I am committed to developing my skills as a full-stack developer. My focus is on mastering both front-end and back-end technologies, enhancing my expertise in web development frameworks, and staying updated with the latest advancements in technology. I am passionate about creating efficient, user-friendly, and innovative solutions.
+
+🎓 **Bachelor's Degree in Information Technology**   
+📚 **Advanced Programming Certification**  
+ Completed 20 specialized courses at [ProgrammingAdvices.com](https://ProgrammingAdvices.com).  
+ 🔹 "This training helped me transition from writing code to thinking like a developer  
+focusing on efficiency, structure, and real-world Projects."
+ 
+---  
+**Open to new opportunities and collaborations!** 🚀  
+🌍 Fluent in **English, Russian, and Arabic** 
+
 
 
 
