@@ -22,7 +22,7 @@ I enjoy solving complex problems, optimizing systems, and continuously learning.
 Desktop app for managing licenses and registrations with a 3-Tier architecture.  
 **Tech**: .NET Framework, WinForms, SQL Server, ADO.NET    
 
-### [Memeory Game](https://github.com/Mhadi-1/MemeoryGame)  
+### [Memeory Game](https://github.com/Mhadi-1/Memeory-Game)  
 A fun and interactive card-matching memory game developed using C# and .NET Framework.  
 Test your memory by flipping cards to find matching pairs within the fewest moves possible!.  
 **Tech**: .NET Framework, WinForms , SQL Server   
@@ -33,7 +33,7 @@ project is designed to help users keep track of the five daily prayers.
 providing timely notifications through a bell sound.  
 **Tech**: .NET Framework, WinForms 
 
-### [Note Pad](https://github.com/Mhadi-1/NotePad)  
+### [Note Pad](https://github.com/Mhadi-1/Note-Pad)  
 NotePad Application is a lightweight text editor designed for Windows operating systems  
 This project aims to provide users with a straightforward interface  
 for creating, editing, and saving text files  
