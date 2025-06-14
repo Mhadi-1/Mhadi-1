@@ -1,7 +1,9 @@
 # Hi, I'm Mhadi Ahmed! 👋  
 **Full Stack Developer | .NET Specialist**
 
-Welcome to my GitHub! I’m a passionate developer focused on building scalable, maintainable desktop applications using .NET technologies. I enjoy solving complex problems, optimizing systems, and continuously learning.
+Welcome to my GitHub! I’m a passionate developer focused on building scalable  
+maintainable desktop applications using .NET technologies.  
+I enjoy solving complex problems, optimizing systems, and continuously learning.
 
 ---
 
@@ -19,6 +21,11 @@ Welcome to my GitHub! I’m a passionate developer focused on building scalable,
 ### [Driving & Vehicle License System](https://github.com/Mhadi-1/Driving-Vehicle-License-System)  
 Desktop app for managing licenses and registrations with a 3-Tier architecture.  
 **Tech**: .NET Framework, WinForms, SQL Server, ADO.NET    
+
+### [Memeory Game](https://github.com/Mhadi-1/Memeory_Game)  
+A fun and interactive card-matching memory game developed using C# and .NET Framework.  
+Test your memory by flipping cards to find matching pairs within the fewest moves possible!.  
+**Tech**: .NET Framework, WinForms , SQL Server   
 
 ---
 
