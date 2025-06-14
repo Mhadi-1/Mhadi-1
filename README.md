@@ -39,6 +39,12 @@ This project aims to provide users with a straightforward interface
 for creating, editing, and saving text files  
 **Tech**: .NET Framework, WinForms 
 
+### [Timer alram application](https://github.com/Mhadi-1/NotePad)  
+The application developed using the .NET Framework.   
+it's a user-friendly application designed   
+to help users manage time effectively.   
+**Tech**: .NET Framework, WinForms 
+
 ---
 
 ## 🎓 Education & Certifications  
