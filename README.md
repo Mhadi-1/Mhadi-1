@@ -33,6 +33,12 @@ project is designed to help users keep track of the five daily prayers.
 providing timely notifications through a bell sound.  
 **Tech**: .NET Framework, WinForms 
 
+### [NotePad](https://github.com/Mhadi-1/NotePad)  
+The Muslim Prayer Timer is a simple yet effective application built using C# and the .NET Framework.  
+project is designed to help users keep track of the five daily prayers.  
+providing timely notifications through a bell sound.  
+**Tech**: .NET Framework, WinForms 
+
 ---
 
 ## 🎓 Education & Certifications  
