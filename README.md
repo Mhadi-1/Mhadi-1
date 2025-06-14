@@ -45,6 +45,15 @@ it's a user-friendly application designed
 to help users manage time effectively.   
 **Tech**: .NET Framework, WinForms 
 
+### [Draw and Paint ](https://github.com/Mhadi-1/Draw-Paint)  
+A user-friendly desktop application.   
+allowing users to create digital artwork with ease. Features include.    
+Drawing Tools (Pencil, Brush, Shapes, Eraser)   
+Color Picker & Custom Palette   
+Layer Support & Image Import/Export (PNG, JPEG)   
+Undo/Redo Functionality   
+**Tech**: .NET Framework, WinForms    
+
 ---
 
 ## 🎓 Education & Certifications  
