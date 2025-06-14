@@ -22,12 +22,12 @@ I enjoy solving complex problems, optimizing systems, and continuously learning.
 Desktop app for managing licenses and registrations with a 3-Tier architecture.  
 **Tech**: .NET Framework, WinForms, SQL Server, ADO.NET    
 
-### [Memeory Game](https://github.com/Mhadi-1/Memeory_Game)  
+### [Memeory Game](https://github.com/Mhadi-1/MemeoryGame)  
 A fun and interactive card-matching memory game developed using C# and .NET Framework.  
 Test your memory by flipping cards to find matching pairs within the fewest moves possible!.  
 **Tech**: .NET Framework, WinForms , SQL Server   
  
-### [Prayer Timer](https://github.com/Mhadi-1/Memeory_Game)  
+### [Prayer Timer](https://github.com/Mhadi-1/Prayer-Timer)  
 The Muslim Prayer Timer is a simple yet effective application built using C# and the .NET Framework.  
 project is designed to help users keep track of the five daily prayers.  
 providing timely notifications through a bell sound.  
