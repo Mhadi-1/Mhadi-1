@@ -53,6 +53,14 @@ Color Picker & Custom Palette
 Layer Support & Image Import/Export (PNG, JPEG)   
 Undo/Redo Functionality   
 **Tech**: .NET Framework, WinForms    
+### [Pool-Clube-Billirad](https://github.com/Mhadi-1/Pool-Clube-Billirad)  
+A user-friendly desktop application.   
+allowing users to create digital artwork with ease. Features include.    
+Drawing Tools (Pencil, Brush, Shapes, Eraser)   
+Color Picker & Custom Palette   
+Layer Support & Image Import/Export (PNG, JPEG)   
+Undo/Redo Functionality   
+**Tech**: .NET Framework, WinForms 
 
 ---
 
