@@ -11,7 +11,7 @@ I enjoy solving complex problems, optimizing systems, and continuously learning.
 - **Languages**: C#, C++
 - **Frameworks**: .NET (Core & Framework)  
 - **Database**: SQL Server, T-SQL, ADO.NET
-- **Design**: SOLID Principles, Design Patterns (Repository, Unit of Work)  
+- **Design**: SOLID Principles,(Repository, Unit of Work)  
 - **Tools**: Git, GitHub
 
 ---
